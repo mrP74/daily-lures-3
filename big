@@ -1,0 +1,9 @@
+.nojekyll
+index.html
+app.js
+manifest.json
+service-worker.js
+/assets/hero-1280x720.jpg
+/icons/icon-192.png
+/icons/icon-512.png
+/icons/maskable-512.png
